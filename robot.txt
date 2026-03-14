@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dek4sitcker-lang.github.io/4Deksticker-Design-Studio/sitemap.xml
